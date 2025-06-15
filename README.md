@@ -1,5 +1,5 @@
 # CareBot-AI
-CareBot AI is an end-to-end medical chatbot built with LLMs and Flask. It answers healthcare-related queries by retrieving information from validated medical data sources, focusing on symptoms, diagnoses, and treatments.
+CareBot AI is an end-to-end medical chatbot built with LLMs and Flask. It answers healthcare-related queries by retrieving information from validated medical data sources, focusing on symptoms, diagnoses, and treatments. Technologies Used: Flask, Gemini API, LangChain, Pinecone, Hugging Face
 
 Output:
 ![image](https://github.com/user-attachments/assets/d023a343-9a5b-4d1d-9c64-449c7ad342c8)
